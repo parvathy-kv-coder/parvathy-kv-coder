@@ -1,5 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm KV Parvathy
 
+🎓 **B.Tech 1st Year – Computer Science Core**  
+🏫 **Vellore Institute of Technology, Vellore**
+
+---
+
+## 🌱 About Me
+I’m a first-year CSE student exploring the world of programming and technology.  
+Currently learning the fundamentals and building a strong foundation in coding.
+
+---
+
+## 🧠 Skills
+- Python (Basics)
+- C Programming (Basics)
+
+---
+
+## 💡 Interests
+- Exploring tech
+
+---
+
+## 📫 Reach Me At  
+**Email:** grpuramdevu@gmail.com
+
+---
+
+## ✨ Quote I Like
+*"Every expert was once a beginner."*
 <!--
 **parvathy-kv-coder/parvathy-kv-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
